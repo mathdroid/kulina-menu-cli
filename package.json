@@ -1,0 +1,30 @@
+{
+  "name": "kulina-menu-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "engines": {
+    "node": ">=6"
+  },
+  "dependencies": {
+    "cfonts": "^2.0.1",
+    "columnify": "^1.5.4",
+    "gradient-string": "^1.1.0",
+    "isomorphic-unfetch": "^2.0.0",
+    "mri": "^1.1.0",
+    "ora": "^2.0.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-stage-2": "^6.24.1"
+  },
+  "files": ["dist/"],
+  "bin": {
+    "kulina-menu": "dist/index.js"
+  },
+  "scripts": {
+    "build": "babel src -d dist"
+  }
+}

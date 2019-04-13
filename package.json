@@ -7,7 +7,7 @@
     "node": ">=6"
   },
   "dependencies": {
-    "cfonts": "^2.0.1",
+    "cfonts": "^2.4.2",
     "columnify": "^1.5.4",
     "gradient-string": "^1.1.0",
     "isomorphic-unfetch": "^2.1.1",

@@ -9,7 +9,7 @@
   "dependencies": {
     "cfonts": "^2.4.2",
     "columnify": "^1.5.4",
-    "gradient-string": "^1.1.0",
+    "gradient-string": "^1.2.0",
     "isomorphic-unfetch": "^2.1.1",
     "mri": "^1.1.0",
     "ora": "^2.1.0"

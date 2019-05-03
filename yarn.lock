@@ -688,9 +688,9 @@ caniuse-lite@^1.0.30000844:
   version "1.0.30000957"
   resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30000957.tgz#fb1026bf184d7d62c685205358c3b24b9e29f7b3"
 
-cfonts@^2.4.2:
-  version "2.4.2"
-  resolved "https://registry.yarnpkg.com/cfonts/-/cfonts-2.4.2.tgz#fa94278e9163d4e31ffa4668d621cf2a197894a4"
+cfonts@^2.4.3:
+  version "2.4.3"
+  resolved "https://registry.yarnpkg.com/cfonts/-/cfonts-2.4.3.tgz#faa6c1a56b19c7942eb8ce46f657e770bb28bb0c"
   dependencies:
     ansi-styles "^3.2.1"
     chalk "^2.4.2"
